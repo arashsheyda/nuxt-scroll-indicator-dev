@@ -1,0 +1,26 @@
+{
+  "name": "@arashsheyda/nsi",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "description": "Nuxt Scroll Indicator Component",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arashsheyda/nuxt-scroll-indicator-dev"
+  },
+  "files": [
+    "index.ts",
+    "components"
+  ],
+  "peerDependencies": {
+    "nuxt": "^3.0.0"
+  },
+  "devDependencies": {
+    "nuxt": "^3.2.3"
+  },
+  "keywords": [
+    "nuxt",
+    "nuxt3",
+    "scroll indicator"
+  ]
+}
